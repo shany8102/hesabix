@@ -3,16 +3,10 @@
   "releases": [
     {
       "version": "1.2.0",
-      "release_date": "2026-01-01T00:00:00Z",
-      "download_url": "https://github.com/hesabix/hesabix/releases/download/v1.2.0/hesabix-1.2.0-win64.zip",
-      "sha256": "d554afb4...",
-      "size_bytes": 45000000,
-      "release_notes_en": "- Fixed printing",
-      "release_notes_fa": "- رفع اشکال چاپ",
+      "download_url": "https://example.com/app.zip",
+      "sha256": "abc123...",
       "mandatory": false,
-      "min_version": "0.0.0",
-      "prerelease": false,
-      "release_url": "https://github.com/hesabix/hesabix/releases/tag/v1.2.0"
+      "prerelease": false
     }
   ]
 }
