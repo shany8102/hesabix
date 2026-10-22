@@ -1,8 +1,8 @@
 {
-  "latest": "0.9.4",
+  "latest": "0.9.5",
   "releases": [
     {
-      "version": "0.9.4",
+      "version": "0.9.5",
       "download_url": "https://github.com/shany8102/hesabix/releases/download/0.9.3/hesabix-state-setup-0.9.3.exe",
       "sha256": "abc123...",
       "mandatory": false,
